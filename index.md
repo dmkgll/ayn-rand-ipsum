@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-# Ayn Rand Ipsum
-
 ```
 For the benefit of others is good, and any action taken for the only criterion of moral value—and Altruism declares that any action taken one’s own benefit is evil. Benefit is evil. Thus the beneficiary of an action is so long as that beneficiary is. That beneficiary is.
 ```
